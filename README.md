@@ -8,9 +8,7 @@ new update!!
 ### Email: 231b322@juetguna.in
 
 ### Code
-<
-	a = float(input("Enter first number: ")) 
-	b = float(input("Enter second number: ")) 
-	sum = a + b 
-	print("The sum is:", sum)
->
+<a = float(input("Enter first number: ")) 
+b = float(input("Enter second number: ")) 
+sum = a + b 
+print("The sum is:", sum)>
